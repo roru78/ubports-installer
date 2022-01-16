@@ -48,7 +48,7 @@
     "prettier": "^1.19.1"
   },
   "dependencies": {
-    "7zip-min": "^1.2.0",
+    "7zip-min": "^1.4.1",
     "axios": "^0.21.1",
     "bootstrap": "^3.3.7",
     "cancelable-promise": "^3.2.3",
