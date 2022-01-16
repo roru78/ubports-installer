@@ -61,7 +61,7 @@
     "graphql": "^15.4.0",
     "jquery": "^3.5.0",
     "jquery-i18next": "^1.2.0",
-    "open-cuts-reporter": "^1.0.1",
+    "open-cuts-reporter": "^1.0.2",
     "popper.js": "^1.16.0",
     "progressive-downloader": "^1.0.6",
     "promise-android-tools": "^4.0.6",
