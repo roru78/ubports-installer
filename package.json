@@ -55,7 +55,7 @@
     "commander": "^6.2.1",
     "electron-dynamic-prompt": "^1.0.2",
     "electron-open-link-in-browser": "^1.0.2",
-    "electron-store": "^6.0.1",
+    "electron-store": "^8.0.0",
     "form-data": "^3.0.0",
     "fs-extra": "^9.0.1",
     "graphql": "^15.4.0",
